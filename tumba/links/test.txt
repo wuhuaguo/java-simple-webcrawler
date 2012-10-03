@@ -1,0 +1,4 @@
+http://url1.com->http://url2.com 1.0
+http://url1.com->http://url3.com 1.0
+http://url1.com->http://url4.com 1.0
+http://url2.com->http://url4.com 1.0
